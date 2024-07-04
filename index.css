@@ -1,0 +1,33 @@
+body{
+    background-color: #eaf11c;
+}
+.one{
+    background-color: #eaf11c;
+    width: 70px;
+    height: 40px;
+}
+.gone{
+     display: flex;
+
+}
+.zero{
+    background-color: antiquewhite;
+    margin-left: 40%;
+    margin-right: 30%;
+    margin-bottom: 20%;
+    margin-top: 20%;
+    border-radius: 25px;
+    
+}
+.po{
+    background-color: antiquewhite;
+    margin-bottom: 0px;
+    margin-right: 20%;
+    margin-left: 20%;
+
+}
+img{
+    border-radius: 2rem;
+    padding-top: 35px;
+    display: flex;
+}
